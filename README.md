@@ -11,7 +11,7 @@ Extract the zip's content somewhere it won't get deleted and run the `install.ba
 ### Supported file extensions
 By default this only works with the next file extensions:
 `.mp4 .mkv .mov .wmv .avi .flv .mkv .webm`
-If you want to add another one, open the `install.bat` file in a text editor and simply add another extension in line 7.
+If you want to add more, open the `install.bat` file in a text editor and simply add type out the extension in line 7.
 
 ### More
 https://github.com/FlafyDev/Shortcuter
